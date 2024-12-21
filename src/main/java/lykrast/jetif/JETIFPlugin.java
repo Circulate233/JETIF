@@ -24,7 +24,6 @@ public class JETIFPlugin implements IModPlugin {
 		compats.add(new CompatEvilCraft());
 		compats.add(new CompatExtraUtils2());
 		compats.add(new CompatThaumcraft());
-		compats.add(new CompatFluxNetworks());
 		compats.add(new CompatTeaTheStory());
 		compats.add(new CompatDeepMobLearning());
 		compats.add(new CompatAtum2());
